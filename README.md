@@ -11,7 +11,7 @@
    <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
   <div align="left">
     <h2> 😇 Some personal stuff:</h2>
-    - 👩‍💻 In my free time i’m working on my personal projects (Power BI reports and my SQL course)<br />
+    - 👩‍💻 In my free time i’m working on my personal projects<br />
     - 🤓 I’m currently learning Data Engineering and Data Warehouse<br />
     - 💬 Ask me about databases, dynamic SQL, stored procedures and data visualisation<br />
     - 😍 Cats, coffee & sweet things, databases, gardening, reading self-development books, cooking & eating
