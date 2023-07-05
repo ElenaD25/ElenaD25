@@ -11,9 +11,9 @@
    <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
   <div align="left">
     <h2> 😇 Some personal stuff:</h2>
-    - 👩‍💻 In my free time i like to read personal development books, learn new things and work on different projects<br />
-    - 🤓 I’m currently learning Data Engineering and Data Warehouse<br />
-    - 💬 Ask me about databases, dynamic SQL, stored procedures and data visualization<br />
+    - 👩‍💻 In my free time I like to read personal development books, learn new things, and work on different projects<br />
+    - 🤓 I’m currently learning Python, and Data Warehouse<br />
+    - 💬 Ask me about databases, dynamic SQL, stored procedures, and data visualization<br />
     - 😍 Cats, coffee & sweet things, databases, gardening, reading self-development books, cooking & eating
  </div>
   
