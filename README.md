@@ -24,6 +24,7 @@
     <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" width="40" height="40" alt="Microsoft SQL Server">
     <img src="https://mpng.subpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" width="40" height="40" alt="MySQL Workbench">  
   <img src="https://miro.medium.com/max/402/1*KTDZHTVaVbvbyhIf2PmBAw.png" width="40" height="40" alt="SSMS">  
+  <img src="https://github.com/ElenaD25/ElenaD25/assets/91025810/6f0c2b34-2544-41c3-8c79-e197306b439a" width="40" height="40" alt="Postgresql">
   <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width="40" height="40" alt="Tableau"> 
   <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" width="40" height="40" alt="Power BI"> 
   <img src="https://banner2.cleanpng.com/20180721/goa/kisspng-microsoft-excel-spreadsheet-microsoft-powerpoint-c-alagoas-5b531b2fe89ae2.6018856215321731039528.jpg" width="40" height="40" alt="Excel"> 
