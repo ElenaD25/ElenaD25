@@ -13,7 +13,7 @@
     <h2> 😇 Some personal stuff:</h2>
     - 👩‍💻 In my free time I like to read personal development books, learn new things, and work on different projects<br />
     - 🤓 I’m currently learning Python, and Data Warehouse<br />
-    - 💬 Ask me about databases, dynamic SQL, stored procedures, and data visualization<br />
+    - 💬 Ask me about databases, dynamic SQL, and data visualization<br />
     - 😍 Cats, coffee & sweet things, databases, gardening, reading self-development books, cooking & eating
  </div>
   
