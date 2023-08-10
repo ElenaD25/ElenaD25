@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <h2> Welcome to my <b>GitHub</b> 😊</h2>
-  <p> I'm a former Web Developer and currently a self-taught BI Developer with a great passion for data</p>
+  <p> I'm a former Web Developer and currently a SQL & BI Developer with a great passion for data</p>
 </div> <br />
   
    <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
