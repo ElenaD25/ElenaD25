@@ -42,8 +42,8 @@
   <div align="left">
     <h2> 🔎 Get in touch</h2>
     <p>
-      <a href=""> luchiana.dumitrescu25@gmail.com</a> <br />
-      <a href="https://www.linkedin.com/in/elena-luchiana-dumitrescu-1a69521ab/"> Luchiana.Dumitrescu (LinkedIn)</a>
+      <a href="https://www.linkedin.com/in/elena-luchiana-dumitrescu-1a69521ab/"> LinkedIn profile</a> </br />
+      <a href="https://medium.com/@luchiana.dumitrescu25"> My Medium</a> <br />
     </p
   </div>
   
