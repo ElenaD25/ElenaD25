@@ -1,11 +1,11 @@
 <div align="center">
-  <p><img src="https://github.com/ElenaD25/ElenaD25/assets/91025810/a3a9a916-fe81-4d15-981d-9659fbef1a8a" ></p>
+  <p><img src="https://github.com/ElenaD25/ElenaD25/assets/91025810/a569c45b-5ae7-4092-aee8-1a96b6b71538"</img></p>
 </div>
 
 <br />
 <div align="center">
   <h2> Welcome to my <b>GitHub</b> 😊</h2>
-  <p> I'm a former Web Developer and currently a SQL & BI Developer with a great passion for data</p>
+  <p> SQL & BI Developer with a great passion for data, coffee & cats</p>
 </div> <br />
   
    <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
