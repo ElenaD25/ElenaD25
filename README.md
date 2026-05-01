@@ -22,7 +22,7 @@ Still learning. Still experimenting. Still shipping.</p>
  
 <div align="left">
   <h2>🛠 Tools and Technologies </h2>
-  <img width="4644" height="656" alt="bi" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
+  <img width="4644" height="656" alt="bi" target="_blank" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
   <img width="4644" height="1004" alt="data analysis" src="https://github.com/user-attachments/assets/7207720c-4bc5-4faa-85b7-134e0dfc07c9" />
   <img width="4644" height="1092" alt="dataeng" src="https://github.com/user-attachments/assets/44190aeb-701c-451c-b82e-f68320d086ee" />
   <img width="4644" height="736" alt="etl" src="https://github.com/user-attachments/assets/ca2d4f91-b4d7-4569-bc46-48516cf962e3" />
