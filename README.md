@@ -69,7 +69,7 @@ Still learning. Still experimenting. Still shipping.</p>
   <img src="https://github.com/user-attachments/assets/d0555eda-8d4a-49f0-b570-22a2b226f6f6" width="45%" />
 </p>
 
-<h4> <b>📌 More on Tableau Public: <a href="https://medium.com/@luchianadumitrescu"> Click here </b> </h4>
+<h4> <b>📌 More on Tableau Public: <a href="https://public.tableau.com/app/profile/luchiana.dumitrescu/vizzes"> Click here </b> </h4>
 </div>
 
 <hr>
