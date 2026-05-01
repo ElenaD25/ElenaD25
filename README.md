@@ -36,15 +36,15 @@ Still learning. Still experimenting. Still shipping.</p>
   <h2>✍️ My Articles </h2>
   <p> I enjoy breaking down complex SQL topics into simple explanations. Here are some of my articles: </p>
   <p> INNER JOIN vs LEFT JOIN in SQL: What’s the difference? </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649" target="_blank"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649" target="_blank" rel="noopener noreferrer"> Read here </p>
   <p> SQL Essentials: GROUP BY vs. PARTITION BY explained </p>
-  <p> 👉 <a href="https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02" target="_blank"> Read here </p>
+  <p> 👉 <a href="https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02" target="_blank" rel="noopener noreferrer"> Read here </p>
   <p> LAG and LEAD in SQL: Mastering Time Travel for Better Data Insights </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/lag-and-lead-in-sql-mastering-time-travel-for-better-data-insights-2421cd6098cc" target="_blank"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/lag-and-lead-in-sql-mastering-time-travel-for-better-data-insights-2421cd6098cc" target="_blank" rel="noopener noreferrer"> Read here </p>
   <p> Real-life analogies that help you choose between SQL Views vs Temporary Tables </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-views-vs-temporary-tables-explained-with-real-life-analogies-609e1b077545" target="_blank"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-views-vs-temporary-tables-explained-with-real-life-analogies-609e1b077545" target="_blank" rel="noopener noreferrer"> Read here </p>
   <p> SQL Window Functions: The Ultimate Tool for Data Enthusiasts </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-window-functions-the-ultimate-tool-for-data-enthusiasts-7a3ff6aac057" target="_blank"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-window-functions-the-ultimate-tool-for-data-enthusiasts-7a3ff6aac057" target="_blank" rel="noopener noreferrer"> Read here </p>
 
 <h4> <b>📌 More on Medium: <a href="https://medium.com/@luchianadumitrescu"> Click here </b> </h4>
 <br />
