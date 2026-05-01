@@ -1,64 +1,98 @@
 <div align="center">
-  <p><img src="https://github.com/ElenaD25/ElenaD25/assets/91025810/f38de19f-562a-4bb1-96de-36304cd3795c "</img></p>
+  <h1> Welcome to my <b>GitHub</b> 😊</h1>
+  <h3> <b></b>BI Developer | Business-Technical Liaison | Medium Writer </h3>
+  <p> ~ with a great 💓 for data, coffee & cats ~</p>
+  <br/>
 </div>
 
-<br />
-<div align="center">
-  <h2> Welcome to my <b>GitHub</b> 😊</h2>
-  <p> SQL & BI Developer with a great passion for data, coffee & cats</p>
-</div>
-   <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
+  <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
   <div align="left"> 
-    <h2> 😇 Some personal stuff:</h2>  <br />
-    <p> I'm  BI Developer and a humble (and sometimes fumble—because tech is funny like that) tech writer who loves sharing knowledge through lighthearted explanations and real-world analogies.</p>
-    <p> In early 2023, I published my first Medium article—a bold step that led to writing for the #WomenInTechnology and later the #CodeLikeAGirl publications, opening the door to a growing writing journey.</p>
-    <p> In my spare time, I enjoy writing about data, working on data analysis projects with Tableau, Power BI, and Python, and exploring technical or self-development books. I also love experimenting with design using Figma. </p>
+    <h2> 😊 Allow me to introduce myself</h2> 
+    <p> I’m a BI Developer, but I see myself more as a data storyteller and tech creator. My thing is taking complex concepts and turning them into something simple, visual, and human.
+My main idea is "If it can’t be explained clearly and easy, it’s not truly understood", so I’ve built my work and writing around that idea.</p>
+    <p> I started writing in 2023 with a single Medium article. No big strategy. No perfect plan. Just curiosity and the urge to share what I was learning. That small step turned into momentum, two major contributions to #WomenInTechnology and #CodeLikeAGirl, and a growing voice in the data and tech space.</p>
+    <p> Now, I build, write, and experiment:  BI dashboards. SQL and Python projects. Data ideas and Visual storytelling, Designs in Figma (just for pleasure and in my spare time). </p>
+    <p>I believe the future belongs to people who can bridge data + clarity + storytelling, and that’s exactly the space I’m building in.
+Still learning. Still experimenting. Still shipping.</p>
+    <h4> <b>💁‍♀️ You can support my work here </b></h4>
+      <a href='https://ko-fi.com/V7V8QF8WX' target='_blank'> <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  </div>
   
   <br />
  
 <div align="left">
   <h2>🛠 Tools and Technologies </h2>
-    <img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" width="50" height="50" alt="Microsoft SQL Server">
-  <img src="https://github.com/user-attachments/assets/46a81a3c-9850-45d2-be4b-1fcaa18e08a4" width="50" height="50" alt="Oracle PL/SQL">
-  <img src="https://workforceedtech.org/wp-content/uploads/2019/03/Tableau_Logo_resized.png" width="60" height="50" alt="Tableau"> 
-  <img src="https://github.com/user-attachments/assets/88dcc60f-1f37-49ce-beed-80deaa3c0ab2" width="70" height="50" alt="Power BI"> 
-  <img src="https://github.com/user-attachments/assets/8a81cc4a-8cfb-42ba-9775-68deb0ecf9ad" width="100" height="50" alt="Excel"> 
-  <img src="https://github.com/user-attachments/assets/537f9be6-48f2-4462-8ea8-ab593df7b774" width="100" height="50" alt="Python"> 
-  <img src="https://github.com/user-attachments/assets/87033cb6-c76f-4d54-8767-d1fed0eaad8b" width="100" height="50" alt="Pandas">  
-  <img src="https://github.com/user-attachments/assets/8ec8b5fc-fad0-4838-9153-3281fdaa0b53" width="100" height="50" alt="Polars">  
-  <img src="https://github.com/user-attachments/assets/4c02ea54-38f3-4256-800e-0e2323e76b42" width="100" height="50" alt="Plotly"> 
-  <img src="https://brandlogos.net/wp-content/uploads/2022/05/figma-logo_brandlogos.net_6n1pb.png" width="40" height="40"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"> 
-    <img src="https://user-images.githubusercontent.com/91025810/187686808-4ac3b10d-fbbc-4c0c-92ce-566419fff0b9.png" width="40" height="40"> 
- 
-
+  <img width="4644" height="656" alt="bi" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
+  <img width="4644" height="1004" alt="data analysis" src="https://github.com/user-attachments/assets/7207720c-4bc5-4faa-85b7-134e0dfc07c9" />
+  <img width="4644" height="1092" alt="dataeng" src="https://github.com/user-attachments/assets/44190aeb-701c-451c-b82e-f68320d086ee" />
+  <img width="4644" height="736" alt="etl" src="https://github.com/user-attachments/assets/ca2d4f91-b4d7-4569-bc46-48516cf962e3" />
+  <img width="4644" height="1020" alt="envirn" src="https://github.com/user-attachments/assets/c09128ff-aff2-499b-b3f1-248624607bb2" />
+  <img width="4644" height="636" alt="communicatin content" src="https://github.com/user-attachments/assets/4d914480-1f36-4aac-a2e8-ef506eb04dc8" />
+  <img width="4644" height="724" alt="currently" src="https://github.com/user-attachments/assets/c9b040aa-0b9e-48bc-8754-94d0be9d9dad" />
+</div>
   <br /> 
-  
-  <div align="left">
-    <h2> 🔎 Get in touch</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/elena-luchiana-dumitrescu-1a69521ab/"> LinkedIn profile</a> </br />
-      <a href="https://medium.com/@luchianadumitrescu"> My Medium</a> <br />
-    </p
-  </div>
-  
-  <hr>
+
+<div align="left">
+  <h2>✍️ My Articles </h2>
+  <p> I enjoy breaking down complex SQL topics into simple explanations. Here are some of my articles: </p>
+  <p> INNER JOIN vs LEFT JOIN in SQL: What’s the difference? </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649"> Read here </p>
+  <p> SQL Essentials: GROUP BY vs. PARTITION BY explained </p>
+  <p> 👉 <a href="https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02"> Read here </p>
+  <p> LAG and LEAD in SQL: Mastering Time Travel for Better Data Insights </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/lag-and-lead-in-sql-mastering-time-travel-for-better-data-insights-2421cd6098cc"> Read here </p>
+  <p> Real-life analogies that help you choose between SQL Views vs Temporary Tables </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-views-vs-temporary-tables-explained-with-real-life-analogies-609e1b077545"> Read here </p>
+  <p> SQL Window Functions: The Ultimate Tool for Data Enthusiasts </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-window-functions-the-ultimate-tool-for-data-enthusiasts-7a3ff6aac057"> Read here </p>
+
+<h4> <b>📌 More on Medium: <a href="https://medium.com/@luchianadumitrescu"> Click here </b> </h4>
+<br />
+
+<div align="left">
+  <h2>📊 My Dashboards</h2>
+  <p>Did someone say "insight" and "design"? Here I am:</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8499e15c-8834-4bbf-a340-89f857991ecb" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/29f5b17f-4956-4268-9d40-d25988dd289b" width="45%"/>
+</p>
+
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/f963612b-3148-4297-8e90-e90c458f14d2" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bd766ac-d48c-4e92-98b3-aa4ee5211811" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/d0555eda-8d4a-49f0-b570-22a2b226f6f6" width="45%" />
+</p>
+
+<h4> <b>📌 More on Tableau Public: <a href="https://medium.com/@luchianadumitrescu"> Click here </b> </h4>
+</div>
+
+<hr>
+    
  <div align="left">
 
-    DECLARE @name varchar(10), @job varchar(50), @description varchar(100), @location varchar(20)
-    select 
+    DECLARE @name varchar(10), @job varchar(50), @description varchar(100), @location varchar(20), @connect varchar(150)
+    
+    SELECT 
     @name = 'Luchiana',
-    @job = 'Business Intelligence Developer', 
-    @description = 'a humble and fumble technical writer, and a cat lover with a great passion for data. ',
-    @location = 'Romania'
+    @description = ' a BI Developer who loves turning data into insights and knowledge into simple explanations 🪄🧙‍♀️',
+    @location = 'Romania',
+    @connect = 'Let''s connect'
 
-    SELECT CONCAT('I''m ', @name, ', a ', @description, 'I currently work as a ' + @job + ', in ', @location, '.' ) 
+    SELECT CONCAT('I''m ', @name, ', ', @description, ' Currently in ', @location, '. ', @connect)
 
   </div>
   
   <div align="center">
     -------Results--------<br /> 
-     I'm Luchiana, a humble and fumble technical writer, and a cat lover with a great passion for data. I currently work as a Business Intelligence Developer, in Romania.
+     I'm Luchiana,  a BI Developer who loves turning data into insights and knowledge into simple explanations 🪄🧙‍♀️ Currently in Romania.
+     <p>Let's connect <a href="https://www.linkedin.com/in/elena-luchiana-dumitrescu-1a69521ab/">
+      <img width="100" height="30" alt="linkedin_logo" src="https://github.com/user-attachments/assets/0e0a2387-35a6-4810-97db-e32e91abdb98" />
+    </a>  </p>
 
   </div>
