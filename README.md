@@ -22,7 +22,7 @@ Still learning. Still experimenting. Still shipping.</p>
  
 <div align="left">
   <h2>🛠 Tools and Technologies </h2>
-  <img width="4644" height="656" alt="bi" target="_blank" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
+  <img width="4644" height="656" alt="bi" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
   <img width="4644" height="1004" alt="data analysis" src="https://github.com/user-attachments/assets/7207720c-4bc5-4faa-85b7-134e0dfc07c9" />
   <img width="4644" height="1092" alt="dataeng" src="https://github.com/user-attachments/assets/44190aeb-701c-451c-b82e-f68320d086ee" />
   <img width="4644" height="736" alt="etl" src="https://github.com/user-attachments/assets/ca2d4f91-b4d7-4569-bc46-48516cf962e3" />
@@ -36,15 +36,15 @@ Still learning. Still experimenting. Still shipping.</p>
   <h2>✍️ My Articles </h2>
   <p> I enjoy breaking down complex SQL topics into simple explanations. Here are some of my articles: </p>
   <p> INNER JOIN vs LEFT JOIN in SQL: What’s the difference? </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/inner-join-vs-left-join-in-sql-whats-the-difference-c72ade418649" target="_blank"> Read here </p>
   <p> SQL Essentials: GROUP BY vs. PARTITION BY explained </p>
-  <p> 👉 <a href="https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02"> Read here </p>
+  <p> 👉 <a href="https://code.likeagirl.io/sql-essentials-group-by-vs-partition-by-explained-6e9b0a69bd02" target="_blank"> Read here </p>
   <p> LAG and LEAD in SQL: Mastering Time Travel for Better Data Insights </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/lag-and-lead-in-sql-mastering-time-travel-for-better-data-insights-2421cd6098cc"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/lag-and-lead-in-sql-mastering-time-travel-for-better-data-insights-2421cd6098cc" target="_blank"> Read here </p>
   <p> Real-life analogies that help you choose between SQL Views vs Temporary Tables </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-views-vs-temporary-tables-explained-with-real-life-analogies-609e1b077545"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-views-vs-temporary-tables-explained-with-real-life-analogies-609e1b077545" target="_blank"> Read here </p>
   <p> SQL Window Functions: The Ultimate Tool for Data Enthusiasts </p>
-  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-window-functions-the-ultimate-tool-for-data-enthusiasts-7a3ff6aac057"> Read here </p>
+  <p> 👉 <a href="https://medium.com/code-like-a-girl/sql-window-functions-the-ultimate-tool-for-data-enthusiasts-7a3ff6aac057" target="_blank"> Read here </p>
 
 <h4> <b>📌 More on Medium: <a href="https://medium.com/@luchianadumitrescu"> Click here </b> </h4>
 <br />
