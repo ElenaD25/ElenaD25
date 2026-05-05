@@ -22,13 +22,7 @@ Still learning. Still experimenting. Still shipping.</p>
  
 <div align="left">
   <h2>🛠 Tools and Technologies </h2>
-  <img width="4644" height="656" alt="bi" src="https://github.com/user-attachments/assets/afba0af5-3bd6-4c11-abe1-957d68e300ae" />
-  <img width="4644" height="1004" alt="data analysis" src="https://github.com/user-attachments/assets/7207720c-4bc5-4faa-85b7-134e0dfc07c9" />
-  <img width="4644" height="1092" alt="dataeng" src="https://github.com/user-attachments/assets/44190aeb-701c-451c-b82e-f68320d086ee" />
-  <img width="4644" height="736" alt="etl" src="https://github.com/user-attachments/assets/ca2d4f91-b4d7-4569-bc46-48516cf962e3" />
-  <img width="4644" height="1020" alt="envirn" src="https://github.com/user-attachments/assets/c09128ff-aff2-499b-b3f1-248624607bb2" />
-  <img width="4644" height="636" alt="communicatin content" src="https://github.com/user-attachments/assets/4d914480-1f36-4aac-a2e8-ef506eb04dc8" />
-  <img width="4644" height="724" alt="currently" src="https://github.com/user-attachments/assets/c9b040aa-0b9e-48bc-8754-94d0be9d9dad" />
+  <img width="500 " height="800" alt="Group 19 (2)" src="https://github.com/user-attachments/assets/4b8bfaa7-6085-44fe-9755-5b0943f3c0ab" />
 </div>
   <br /> 
 
