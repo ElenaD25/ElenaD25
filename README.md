@@ -10,7 +10,7 @@
     <h2> 😊 Allow me to introduce myself</h2> 
     <p> I’m a BI Developer, but I see myself more as a data storyteller and tech creator. My thing is taking complex concepts and turning them into something simple, visual, and human.
 My main idea is "If it can’t be explained clearly and easy, it’s not truly understood", so I’ve built my work and writing around that idea.</p>
-    <p> I started writing in 2023 with a single Medium article. No big strategy. No perfect plan. Just curiosity and the urge to share what I was learning. That small step turned into momentum, two major contributions to #WomenInTechnology and #CodeLikeAGirl, and a growing voice in the data and tech space.</p>
+    <p> I started writing in 2023 with a single Medium article. No big strategy. No perfect plan. Just curiosity and the urge to share what I knew. That small step turned into momentum, two major contributions to #WomenInTechnology and #CodeLikeAGirl, and a growing voice in the data and tech space.</p>
     <p> Now, I build, write, and experiment:  BI dashboards. SQL and Python projects. Data ideas and Visual storytelling, Designs in Figma (just for pleasure and in my spare time). </p>
     <p>I believe the future belongs to people who can bridge data + clarity + storytelling, and that’s exactly the space I’m building in.
 Still learning. Still experimenting. Still shipping.</p>
